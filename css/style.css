@@ -1,0 +1,33 @@
+h1,
+h2,
+h3 {
+	color: red;
+}
+p {
+	color: grey;
+}
+
+.menu {
+	color: black;
+}
+.coment {
+	color: darkblue;
+}
+.zapomni {
+	color: darkmagenta;
+}
+#selection {
+	color: chocolate;
+}
+.nachalo {
+	color: green;
+}
+.list {
+	color: hotpink;
+}
+p.list {
+	color: lightseagreen;
+}
+.list.zagolovok {
+	color: yellowgreen;
+}
